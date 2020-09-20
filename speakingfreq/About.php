@@ -21,5 +21,10 @@
             </div>
         </div>
     </div>
+    <br><br><br><br>
+    <h1>ABOUT:</h1> <h6> Speaking Freq is a "safe space" for the "Freqs" that get into the music making process. 
+        Sign Up and join the community today to interact with other artists that you could possibly learn from or even collaborate with in your music! 
+        If you are also intested in writing articles and posting helpful resources, contact us: speakingfreq@fakemail.com </h6>
 
+        <h1>RESOURCES: </h1>
 </body>
